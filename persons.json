@@ -1,0 +1,58 @@
+[
+  {
+    "id": "p1",
+    "name": "Francis Romero",
+    "age": 21,
+    "gender": "Male",
+    "birthday": "November 5, 2004"
+  },
+  {
+    "id": "p2",
+    "name": "Cristine Gwen",
+    "age": 20,
+    "gender": "Female",
+    "birthday": "October 29, 2004"
+  },
+  {
+    "id": "p3",
+    "name": "Alpha Valdez",
+    "age": 21,
+    "gender": "Male",
+    "birthday": "August 3, 2003"
+  },
+  {
+    "id": "p4",
+    "name": "Jenry Gupit",
+    "age": 21,
+    "gender": "Male",
+    "birthday": "November 5, 2004"
+  },
+  {
+    "id": "p5",
+    "name": "Jhon Vincent Beredo",
+    "age": 21,
+    "gender": "Male",
+    "birthday": "October 30, 2003"
+  },
+  {
+    "id": "p6",
+    "name": "Jayvee Magnaye",
+    "age": 20,
+    "gender": "Male",
+    "birthday": "October 17, 2003"
+  },
+  {
+    "id": "p7",
+    "name": "Herman Loyd",
+    "age": 20,
+    "gender": "Male",
+    "birthday": "May 25, 2004"
+  },
+  {
+    "id": "p8",
+    "name": "Gemrieyh De Belen",
+    "age": 21,
+    "gender": "Male",
+    "birthday": "August 1, 2004"
+  }
+]
